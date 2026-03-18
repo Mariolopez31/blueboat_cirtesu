@@ -1,0 +1,3 @@
+[submodule "src/blueboat_gcs"]
+	path = src/blueboat_gcs
+	url = /home/mario-cirtesu/cirtesu_ws/src/blueboat_gcs
