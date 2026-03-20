@@ -2,3 +2,7 @@
 	path = src/blueboat_gcs
 	url = https://github.com/Mariolopez31/blueboat_gcs.git
 cd
+[submodule "src/FASTLIO_cirtesu"]
+	path = src/FASTLIO_cirtesu
+	url = https://github.com/Mariolopez31/FASTLIO_cirtesu.git
+	branch = ROS2
