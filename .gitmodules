@@ -9,3 +9,6 @@ cd
 [submodule "src/blueboat_cirtesu_description"]
 	path = src/blueboat_cirtesu_description
 	url = https://github.com/Mariolopez31/blueboat_cirtesu_description.git
+[submodule "third_party/ros2_aruco_cirtesu"]
+	path = third_party/ros2_aruco_cirtesu
+	url = https://github.com/Mariolopez31/ros2_aruco_cirtesu.git
