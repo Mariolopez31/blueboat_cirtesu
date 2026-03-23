@@ -12,3 +12,6 @@ cd
 [submodule "third_party/ros2_aruco_cirtesu"]
 	path = third_party/ros2_aruco_cirtesu
 	url = https://github.com/Mariolopez31/ros2_aruco_cirtesu.git
+[submodule "src/tandem_girona"]
+	path = src/tandem_girona
+	url = https://github.com/Mariolopez31/tandem_girona.git
