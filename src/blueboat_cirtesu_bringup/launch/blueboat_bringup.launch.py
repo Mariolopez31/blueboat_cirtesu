@@ -44,13 +44,15 @@ def generate_launch_description():
     )
 
     fast_lio_node = Node(
-        package="fast_lio",
-        executable="fastlio_mapping",
+        package="fastlio2",
+        namespace="fastlio2",
+        executable="lio_node",
+        name="lio_node",
+        output="screen",
         parameters=[
             fastlio_config_file,
             {"use_sim_time": use_sim_time},
         ],
-        output="screen",
     )
 
     localizer_node = Node(
